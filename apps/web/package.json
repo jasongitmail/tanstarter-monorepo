@@ -47,6 +47,7 @@
     "babel-plugin-react-compiler": "catalog:",
     "cross-env": "catalog:",
     "nitro": "catalog:",
+    "super-sitemap": "catalog:",
     "tailwindcss": "catalog:",
     "typescript": "catalog:",
     "vite": "catalog:"
